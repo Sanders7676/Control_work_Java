@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.util.List;
 
 public class ToysShop {
-    private List<Toy> toys;
+    private final List<Toy> toys;
 
     public ToysShop(List<Toy> toys) {
         this.toys = toys;
