@@ -10,7 +10,7 @@ public class Main {
         Toy toy4 = new Toy(3, "Пазл", 8);
         Toy toy5 = new Toy(4,"Барби",5);
 
-        List<Toy> toys = new ArrayList<Toy>();
+        List<Toy> toys = new ArrayList<>();
 
         toys.add(toy5);
         toys.add(toy4);
@@ -18,14 +18,16 @@ public class Main {
         toys.add(toy2);
         toys.add(toy1);
 
+        System.out.println(toys);
 
 
-        ToysShop toyStore = new ToysShop(toys);
-        toyStore.saveToyForLottery();
-        toyStore.saveToyForLottery();
-        toyStore.saveToyForLottery();
-        toyStore.saveToyForLottery();
-        toyStore.saveToyForLottery();
+
+        ToysShop toyShop = new ToysShop(toys);
+        toyShop.saveToyForLottery();
+        toyShop.saveToyForLottery();
+        toyShop.saveToyForLottery();
+        toyShop.saveToyForLottery();
+        toyShop.saveToyForLottery();
 
 
     }
