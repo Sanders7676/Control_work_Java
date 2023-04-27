@@ -18,7 +18,7 @@ public class Main {
         toys.add(toy2);
         toys.add(toy1);
 
-        System.out.println(toys);
+        //System.out.println(toys);
 
 
 
