@@ -1,0 +1,18 @@
+
+Toy [id=0, name=Медведь, weight=7.0]
+Toy [id=4, name=Барби, weight=5.0]
+Toy [id=1, name=Труба, weight=6.0]
+Toy [id=3, name=Пазл, weight=8.0]
+Toy [id=2, name=Санки, weight=9.0]
+
+Toy [id=2, name=Санки, weight=9.0]
+Toy [id=3, name=Пазл, weight=8.0]
+Toy [id=0, name=Медведь, weight=7.0]
+Toy [id=4, name=Барби, weight=5.0]
+Toy [id=1, name=Труба, weight=6.0]
+
+Toy [id=3, name=Пазл, weight=8.0]
+Toy [id=0, name=Медведь, weight=7.0]
+Toy [id=4, name=Барби, weight=5.0]
+Toy [id=2, name=Санки, weight=9.0]
+Toy [id=1, name=Труба, weight=6.0]
